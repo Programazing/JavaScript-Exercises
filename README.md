@@ -1,1 +1,1 @@
-# JavaScript Puzzles
+# JavaScript Exercises
